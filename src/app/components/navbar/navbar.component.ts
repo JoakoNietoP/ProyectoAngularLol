@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { HomeComponent } from '../home/home.component';
+import { AcercaDeComponent } from '../acerca-de/acerca-de.component';
 
 @Component({
   selector: 'app-navbar',
